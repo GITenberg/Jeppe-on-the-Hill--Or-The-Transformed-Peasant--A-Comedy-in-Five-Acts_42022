@@ -1,0 +1,52 @@
+_repo: Jeppe-on-the-Hill--Or-The-Transformed-Peasant--A-Comedy-in-Five-Acts_42022
+_version: 0.1.0
+alternative_title: Jeppe på bjerget. English
+contributor:
+  commentator:
+    agent_name: Johnson, Morris
+    gutenberg_agent_id: '41481'
+    url: http://www.gutenberg.org/2009/agents/41481
+  translators:
+  - agent_name: Ruud, Martin B. (Martin Bronn)
+    aliases:
+    - Ruud, Martin Brown
+    - Ruud, Martin Bronn
+    birthdate: 1885
+    deathdate: 1941
+    gutenberg_agent_id: '6689'
+    url: http://www.gutenberg.org/2009/agents/6689
+  - agent_name: Westergaard, Waldemar
+    alias: Westergaard, Waldemar Christian
+    birthdate: 1882
+    deathdate: 1963
+    gutenberg_agent_id: '41482'
+    url: http://www.gutenberg.org/2009/agents/41482
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Holberg, Ludvig
+    aliases:
+    - Holberg, Baron Ludvig
+    - Holberg, Johan Ludvig
+    birthdate: 1684
+    deathdate: 1754
+    gutenberg_agent_id: '1863'
+    url: http://www.gutenberg.org/2009/agents/1863
+    wikipedia: http://en.wikipedia.org/wiki/Ludvig_Holberg
+description: ''
+gutenberg_issued: '2013-02-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42022'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Comedies'
+- !lcc 'PT'
+- !lcsh 'Danish drama -- Translations into English'
+title: 'Jeppe on the Hill; Or, The Transformed Peasant: A Comedy in Five Acts'
+url: http://www.gutenberg.org/ebooks/42022
